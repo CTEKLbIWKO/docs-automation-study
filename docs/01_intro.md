@@ -7,3 +7,5 @@
 - Навести порядок в файлах.
 
 **Важно:** Документация — это **часть кода**.
+
+<img width="486" height="433" alt="image" src="https://github.com/user-attachments/assets/66f8ddd4-9b93-4dde-9ed0-8e40c89838e7" />
